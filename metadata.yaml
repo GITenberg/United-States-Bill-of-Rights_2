@@ -1,0 +1,29 @@
+_repo: United-States-Bill-of-Rights_2
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States
+    gutenberg_agent_id: '1'
+    url: http://www.gutenberg.org/2009/agents/1
+description: ''
+gutenberg_bookshelf:
+- Politics
+- United States Law
+- American Revolutionary War
+gutenberg_issued: '1972-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civil rights -- United States -- Sources'
+- !lcc 'JK'
+- !lcc 'KF'
+- !lcsh 'United States. Constitution. 1st-10th Amendments'
+- GITenberg
+title: "The United States Bill of Rights\r\nThe Ten Original Amendments to the Constitution\
+  \ of the United States"
+url: http://www.gutenberg.org/ebooks/2
