@@ -1,11 +1,16 @@
 _repo: United-States-Bill-of-Rights_2
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: United States
     gutenberg_agent_id: '1'
     url: http://www.gutenberg.org/2009/agents/1
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2#United-States-Bill-of-Rights
 gutenberg_bookshelf:
 - Politics
 - United States Law
